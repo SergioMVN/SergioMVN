@@ -1,5 +1,5 @@
-- 👋 Ihola mi nombre es @SergioMVN
-- 👀 Me quiero especializar en C# con .net
+- 👋 hola mi nombre es @SergioMVN
+- 👀 Trabajo con C# en .net y También con JavaScript
 
 
 <!---
