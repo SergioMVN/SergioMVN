@@ -1,5 +1,5 @@
 - 👋 hola mi nombre es @SergioMVN
-- 👀 Trabajo con C# en .net y También con JavaScript
+- 👀 Trabajo como programador Junior en .NET con conocimientos en ReactJs.
 
 
 <!---
